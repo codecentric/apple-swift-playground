@@ -8,6 +8,10 @@ code into a new Xcode 6 beta Playground.
 
 ## Table of Contents
 
+### Tutorial
+
+This folder contains a small walkthrough through the syntax and features of the language aimed at people who already have development experience in other languages.
+
 ### Collection Types
 
 `ArrayCopyingBehavior.swift`  
