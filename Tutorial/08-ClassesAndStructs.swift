@@ -57,4 +57,4 @@ myStructPoint.refToPoint
 yetAnotherStructPoint.refToPoint
 
 
-// There are other property mechanism that we won't cover here such as computed properties with custem getters and setters as well as observers for property changes. Please see the docs for that.
+// There are other property mechanisms that we won't cover here, such as computed properties with custom getters and setters as well as observers for property changes. Please see the docs for that.
