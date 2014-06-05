@@ -1,10 +1,14 @@
 Apple Swift Language Playground
 ===============================
 
-This repo provides space for sharing intersting tidbits found while trying out Apple's new Swift programming language.
+This repo provides space for sharing interesting tidbits found while trying out Apple's new Swift programming language.
 
-Examples are grouped by loosly defined categories represented by folders. To try them out, you can just paste the
+Examples are grouped by loosely defined categories represented by folders. To try them out, you can just paste the
 code into a new Xcode 6 beta Playground.
+
+## Article
+
+A collaborator has written down some of his findings/opinions in a blog article on our corporate blog. Feel free to check it out at https://blog.codecentric.de/en/2014/06/10-early-thoughts-swift-programming-language/ .
 
 ## Table of Contents
 
